@@ -7,11 +7,9 @@ fn main() {
 fn main() {
     print_hello();
     print_goodbye();
-    println!("Hello, world!");
 }
 
 fn print_hello() {
     println!("Hello, world!");
-    // test
 }
 
