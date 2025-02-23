@@ -15,3 +15,6 @@ fn print(m: &str) {
 
 // fix PR from comment
 // fix PR from comment
+// fix PR from comment
+// fix PR from comment
+// fix PR from comment
